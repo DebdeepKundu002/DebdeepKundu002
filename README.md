@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Debdeep Kundu</h1>
 <h3 align="center">A passionate Full stack Web developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/DebdeepKundu002/DebdeepKundu002/blob/main/ui-ezgif.com-crop.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debdeepkundu002&label=Profile%20views&color=0e75b6&style=flat" alt="debdeepkundu002" /> </p>
 
 <p align="left"> <a href="https://x.com/Debdeepkun66543" target="blank"><img src="https://img.shields.io/twitter/follow/Debdeepkun66543?logo=twitter&style=for-the-badge" alt="Debdeepkun66543" /></a> </p>
