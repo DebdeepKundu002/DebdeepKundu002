@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debdeepkundu002&label=Profile%20views&color=0e75b6&style=flat" alt="debdeepkundu002" /> </p>
 
-<p align="left"> <a href="https://twitter.com/debdeepkun6654" target="blank"><img src="https://img.shields.io/twitter/follow/debdeepkun6654?logo=twitter&style=for-the-badge" alt="debdeepkun6654" /></a> </p>
+<p align="left"> <a href="https://x.com/Debdeepkun66543" target="blank"><img src="https://img.shields.io/twitter/follow/Debdeepkun66543?logo=twitter&style=for-the-badge" alt="Debdeepkun66543" /></a> </p>
 
 - 🌱 I’m currently learning **intermediate Java Course**
 
@@ -22,12 +22,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/debdeepkun6654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="debdeepkun6654" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/debdeep kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debdeep kundu" height="30" width="40" /></a>
-<a href="https://kaggle.com/debdeep kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="debdeep kundu" height="30" width="40" /></a>
-<a href="https://fb.com/debdeep kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="debdeep kundu" height="30" width="40" /></a>
+<a href="https://x.com/Debdeepkun66543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Debdeepkun66543" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/debdeep-kundu-6a0617225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debdeep kundu" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/debdeepkundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="debdeep kundu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/debdeepkundu.sonai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="debdeep kundu" height="30" width="40" /></a>
 <a href="https://instagram.com/debdeep2692" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="debdeep2692" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/debdeep kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="debdeep kundu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCUcPI9PruaxKUw053wEJKlA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="debdeep kundu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/debdeep885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debdeep885" height="30" width="40" /></a>
 </p>
 
