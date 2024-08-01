@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Debdeep Kundu</h1>
 <h3 align="center">A passionate Full stack Web developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/DebdeepKundu002/DebdeepKundu002/blob/main/ui-ezgif.com-crop.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/DebdeepKundu002/DebdeepKundu002/blob/main/opp.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debdeepkundu002&label=Profile%20views&color=0e75b6&style=flat" alt="debdeepkundu002" /> </p>
 
